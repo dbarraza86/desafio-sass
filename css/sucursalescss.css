@@ -1,0 +1,14 @@
+h1 {
+  color: #a658dd;
+  font-size: 20px; }
+
+div {
+  background-color: #e4e4eb;
+  height: 200px; }
+  div a {
+    text-decoration: none; }
+  div p {
+    color: #a658dd;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center; }

@@ -1,0 +1,25 @@
+@import "variables.scss";
+
+
+div {
+    background-color: blueviolet;
+    height: 200px;
+    p {
+        color: red;
+    }
+    h2 {
+        color: rgb(17, 0, 255);
+        font-size: 40px;
+    }
+    h3 {
+        color: $colorTitulo;
+        
+    }
+    
+}
+h4 {
+    color: $colorTitulo;
+}
+h5 {
+    color: $colorTitulo;
+}

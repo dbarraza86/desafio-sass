@@ -1,0 +1,14 @@
+@import "variables.scss";
+
+h1 { color: $colorTitulo;
+    font-size: 20px;
+    } 
+div {background-color: $colorCajas;
+    height: 200px;
+    a {text-decoration: none;}
+    p { color:$colorTitulo;
+        font-size: 40px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       text-align: center;
+           } 
+}
